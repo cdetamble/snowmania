@@ -1,0 +1,1 @@
+java -jar ../../excluded-resources/tools/runnable-texturepacker.jar ../../excluded-resources/textures ./
