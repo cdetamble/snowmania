@@ -8,7 +8,7 @@ public class Constants {
     public static int WINDOW_WIDTH = 384;
     public static int WINDOW_HEIGHT = 216;
 
-    public static String VERSION = "1.1";
+    public static String VERSION = "1.2";
 
     public enum PlayerColor {
         Red, Blue, Green
