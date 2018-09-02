@@ -2,7 +2,7 @@
 
 *Fridge all the snowmen! Made in 48h for Ludum Dare 40.*
 
-[![version](https://img.shields.io/badge/version-1.0-2095ff.svg)](CHANGELOG.md)
+[![version](https://img.shields.io/badge/version-1.2-2095ff.svg)](CHANGELOG.md)
 [![license](https://img.shields.io/badge/license-GPL--3.0-2095ff.svg)](LICENSE.md)
 [![download](https://img.shields.io/badge/download-playstore-2095ff.svg)](https://goo.gl/s7Epvs)
 [![download](https://img.shields.io/badge/download-desktop-2095ff.svg)](https://github.com/cdetamble/snowmania/blob/master/dist/Snowmania.zip?raw=true)
